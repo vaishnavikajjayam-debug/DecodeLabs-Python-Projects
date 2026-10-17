@@ -30,10 +30,9 @@ The program uses conditional statements to determine whether an answer is correc
 
 Project-4-General-Knowledge-Quiz/
 ├── general_knowledge_quiz.py
-└── README.md
 
 
-▶️ How to Run
+ ▶️ How to Run
 
 1. Install Python 3 on your computer.
 2. Open a terminal in the project folder.
